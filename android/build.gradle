@@ -34,9 +34,10 @@ android {
 
     defaultConfig {
         minSdkVersion 16
+        consumerProguardFiles 'proguard-rules.pro'
     }
 
     dependencies {
-        implementation 'com.google.ads.mediation:ironsource:7.2.1.1.0'
+        api 'com.google.ads.mediation:ironsource:7.2.1.1.0'
     }
 }
