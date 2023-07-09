@@ -16,8 +16,8 @@ A new Flutter project.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.platform = :ios, '10.0'
-  s.dependency 'GoogleMobileAdsMediationIronSource', '7.2.1.2.0'
+  s.platform = :ios, '11.0'
+  s.dependency 'GoogleMobileAdsMediationIronSource', '7.3.1.0.0'
   s.ios.deployment_target = '10.0'
   s.static_framework = true
 
