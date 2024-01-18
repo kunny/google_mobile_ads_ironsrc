@@ -1,6 +1,6 @@
 name: google_mobile_ads_ironsrc
 description: A new Flutter project.
-version: 2.4.0
+version: 2.5.0
 publish_to: 'none'
 
 environment:

@@ -39,6 +39,6 @@ android {
     }
 
     dependencies {
-        api 'com.google.ads.mediation:ironsource:7.5.2.0'
+        api 'com.google.ads.mediation:ironsource:7.6.0.0'
     }
 }
