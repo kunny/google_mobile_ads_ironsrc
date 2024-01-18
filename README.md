@@ -1,15 +1,33 @@
-# google_mobile_ads_ironsrc
+# IronSource mediation plugin for Google Mobile Ads Flutter
 
-A new Flutter project.
+Google Mobile Ads Flutter mediation plugin for AppLovin.
 
-## Getting Started
+## Use this package as a library
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+```yaml
+dependencies:
+  google_mobile_ads_ironsrc:
+    git:
+      url: https://github.com/kunny/google_mobile_ads_ironsrc.git
+      ref: <tag>
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For example, if you want to depend on version `2.3.1`:
 
+```yaml
+dependencies:
+  google_mobile_ads_applovin:
+    git:
+      url: https://github.com/kunny/google_mobile_ads_ironsrc.git
+      ref: 2.3.1
+```
+
+Refer to the available tags on [here](https://github.com/kunny/google_mobile_ads_ironsrc/tags).
+
+## Additional code required
+
+No additional code is required for AppLovin integration.
+
+## Disclaimer
+
+This is not an official Google product.
